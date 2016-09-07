@@ -21,3 +21,7 @@ Usage
 -----
 
 Modify the config settings at the top of <code>rollup.js</code>, and then just <code>node rollup.js</code>.
+
+PS
+----
+### I am not responsible if this fork malfunctions (Supposed to be as unstable as possible)
